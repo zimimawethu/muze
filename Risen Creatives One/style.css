@@ -1,0 +1,21 @@
+h1{
+    color: green;
+    font-size: 40px;
+    font-family: Helvetica, bold;
+    text-align: center;
+}
+
+h2{
+    color: green;
+    font-family: Helvetica, bold;
+    text-align: center;
+}
+
+h3{
+    font-family: Comic Sans, Comic Sans MD, cursive;
+}
+
+p{
+    font-weight: 800;
+    text-decoration: none;
+}
